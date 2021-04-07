@@ -1,0 +1,8 @@
+com/example/mysqlDemo/User.java
+ com.example.mysqlDemo.User
+com/example/mysqlDemo/MysqlDemoApplication.java
+ com.example.mysqlDemo.MysqlDemoApplication
+com/example/mysqlDemo/UserRepository.java
+ com.example.mysqlDemo.UserRepository
+com/example/mysqlDemo/MainController.java
+ com.example.mysqlDemo.MainController
