@@ -1,0 +1,10 @@
+server:
+  port: 8762
+
+amazon:
+  access:
+    key: key1
+    secret-key: key2
+  region: eu-west-1
+  end-point:
+    url: http://localhost:8000/

@@ -1,0 +1,12 @@
+com/example/dynamodbTutorial/entity/Student.java
+ com.example.dynamodbTutorial.entity.Student
+com/example/dynamodbTutorial/service/StudentService.java
+ com.example.dynamodbTutorial.service.StudentService
+com/example/dynamodbTutorial/configuration/DynamoDbConfig.java
+ com.example.dynamodbTutorial.configuration.DynamoDbConfig
+com/example/dynamodbTutorial/DynamodbTutorialApplication.java
+ com.example.dynamodbTutorial.DynamodbTutorialApplication
+com/example/dynamodbTutorial/DTO/StudentDTO.java
+ com.example.dynamodbTutorial.DTO.StudentDTO
+com/example/dynamodbTutorial/controller/DynamoDbController.java
+ com.example.dynamodbTutorial.controller.DynamoDbController
